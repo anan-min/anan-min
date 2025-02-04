@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anan Mingmitpattanakul. I'm currently BU Computer science third year 
+- 👋 Hi, I’m Anan Mingmitpattanakul. I'm currently BU Computer science forth year 
 - 👀 I’m interested in Web-development, Machine Learning, Sports 
 - 🌱 I’m currently learning Big data management, algorithm and programming technique. 
 - 📫 How to reach me email: anan.min@outlook.com 
