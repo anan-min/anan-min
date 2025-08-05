@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anan Mingmitpattanakul. I'm currently BU Computer science forth year 
-- 👀 I’m interested in Web-development, Machine Learning, Sports 
-- 🌱 I’m currently learning Big data management, algorithm and programming technique. 
+- 👋 Hi, I’m Anan Mingmitpattanakul. I'm currently Intern at GIS 
+- 👀 I’m interested in Context Engineering, LLM, and gaming
+- 🌱 I’m currently learning MCP, RAG, and others related LLM topics. 
 - 📫 How to reach me email: anan.min@outlook.com 
 - This is my latest website project: https://anan-min.com/
 
